@@ -9293,11 +9293,11 @@ input[type="submit"]:hover {
 }
 
 .side-menu2>ul>li>a:hover {
-  color: var(--color-primary);
+  color: #2596be;
 }
 
 .side-menu2>ul>li.active>a {
-  color: var(--color-primary);
+  color: #2596be;
 }
 
 .side-menu2>ul>li.active>a::before {
@@ -29960,12 +29960,12 @@ ul {
   text-align: center;
   font-weight: 600;
   font-family: var(--font-secondary);
-  letter-spacing: 0.5px;
+  letter-spacing: 0.2px;
 }
 
 @media (max-width: 1201px) {
   .feature-card10 .title {
-    font-size: 19px;
+    font-size: 20px;
     text-align: center;
   }
 }

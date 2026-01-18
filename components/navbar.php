@@ -35,8 +35,8 @@
      </div>
      <ul>
          <li><a href="about.php" aria-label="about us">About Us</a></li>
-         <li><a href="careers.php" aria-label="careers">Careers</a></li>
          <li><a href="services.php" aria-label="services">Services</a></li>
+         <li><a href="careers.php" aria-label="careers">Careers</a></li>
          <li><a href="contacts.php" aria-label="contacts">Contacts</a></li>
      </ul>
      <div class="menu-contact">
