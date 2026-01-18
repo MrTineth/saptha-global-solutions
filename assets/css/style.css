@@ -29945,9 +29945,12 @@ ul {
   }
 }
 
-/* .feature-card10 img {
-  margin-bottom: 26px;
-} */
+.feature-card10 img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
 
 .feature-card10 .title {
   font-size: 20px;

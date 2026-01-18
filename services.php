@@ -209,7 +209,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/custom.gif" alt="service image 1">
-                            <h4 class="title">Custom Software Development</h4>
+                            <h4 class="title">Custom Software<br />Development</h4>
                             <p>Expertise in creating tailored software solutions for businesses.
                             </p>
                         </div>
@@ -225,7 +225,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/mobile.gif" alt="service image 3">
-                            <h4 class="title">Web & Mobile App Development</h4>
+                            <h4 class="title">Web & Mobile App<br />Development</h4>
                             <p>Building high-performance web and mobile applications.
                             </p>
                         </div>
@@ -233,7 +233,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/cloud.gif" alt="service image 4">
-                            <h4 class="title">Cloud Solutions & Integration</h4>
+                            <h4 class="title">Cloud Solutions &<br />Integration</h4>
                             <p>Deploying secure, scalable, and efficient cloud solutions.
                             </p>
                         </div>
@@ -241,7 +241,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/consulting.gif" alt="service image 5">
-                            <h4 class="title">Software Consulting & Strategy</h4>
+                            <h4 class="title">Software Consulting &<br />Strategy</h4>
                             <p>Guiding businesses to make smart technology decisions.
                             </p>
                         </div>
@@ -249,7 +249,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/enterprise.gif" alt="service image 6">
-                            <h4 class="title">Enterprise Solutions Systems & ERP</h4>
+                            <h4 class="title">Enterprise Solutions<br />Systems & ERP</h4>
                             <p>Optimizing operations with enterprise-grade systems.
                             </p>
                         </div>
@@ -257,7 +257,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/data.gif" alt="service image 7">
-                            <h4 class="title">Data Analytics & Business Intelligence</h4>
+                            <h4 class="title">Data Analytics &<br />Business Intelligence</h4>
                             <p>Turning complex data into actionable business insights.
                             </p>
                         </div>
@@ -265,7 +265,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/ai.gif" alt="service image 8">
-                            <h4 class="title">AI & Machine Learning Solutions</h4>
+                            <h4 class="title">AI & Machine Learning<br />Solutions</h4>
                             <p>Developing AI/ML solutions to drive efficiency and innovation.
                             </p>
                         </div>
@@ -281,7 +281,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/it.gif" alt="service image 10">
-                            <h4 class="title">IT Support & System Maintenance</h4>
+                            <h4 class="title">IT Support &<br />System Maintenance</h4>
                             <p>Providing continuous support for uninterrupted operations.
                             </p>
                         </div>
@@ -289,7 +289,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="feature-card10">
                             <img src="assets/images/service/ecommerce.gif" alt="service image 11">
-                            <h4 class="title">Modern E-Commerce Solutions</h4>
+                            <h4 class="title">Modern E-Commerce<br />Solutions</h4>
                             <p>We build modern online stores that drive real sales.
                             </p>
                         </div>
