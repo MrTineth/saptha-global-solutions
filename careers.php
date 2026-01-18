@@ -110,7 +110,7 @@
                             <div class="ser-content5">
                                 <div class="ser-text3">
                                     <a>Best Place</a>
-                                    <a>Beast Team</a>
+                                    <a>Best Team</a>
                                 </div>
                                 <h4 class="title">Join Our Team</h4>
                                 <p>Energetic, Versatile, and Relentless, that's who we are! Be a part of our dynamic
