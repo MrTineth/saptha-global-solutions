@@ -13,7 +13,7 @@
              <p>166A/A/01<br> Egaloya, Bulathsinhala</p>
              <a href="tel:+94773340795" aria-label="mobile" class="nmbr">(+94)
                  773340795</a>
-             <a href="https://wa.me/0760543394" aria-label="mobile" target="_blank" class="nmbr">(+94)
+             <a href="https://wa.me/+94760543394" aria-label="mobile" target="_blank" class="nmbr">(+94)
                  760543394</a>
              <a href="mailto:info@sapthaglobal.com" aria-label="email" class="email">info@sapthaglobal.com</a>
 
@@ -22,7 +22,7 @@
              <li><a href="www.facebook.html" aria-label="facebook"><i class="fab fa-facebook-f"></i></a></li>
              <li><a href="https://x.com/i/flow/login?lang=en" aria-label="x"><i class="fab fa-twitter"></i></a></li>
              <li><a href="https://www.linked.com/" aria-label="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-             <li><a href="https://wa.me/0760543394" aria-label="whatsapp" target="_blank"><i
+             <li><a href="https://wa.me/+94760543394" aria-label="whatsapp" target="_blank"><i
                          class="fab fa-whatsapp"></i></a></li>
          </ul>
      </div>
@@ -37,7 +37,7 @@
          <li><a href="about.php" aria-label="about us">About Us</a></li>
          <li><a href="services.php" aria-label="services">Services</a></li>
          <li><a href="careers.php" aria-label="careers">Careers</a></li>
-         <li><a href="contacts.php" aria-label="contacts">Contacts</a></li>
+         <li><a href="contacts.php" aria-label="contacts">Contact Us</a></li>
      </ul>
      <div class="menu-contact">
          <span>Contacts</span>
@@ -50,7 +50,7 @@
              <li><a href="#" aria-label="facebook"><i class="fab fa-facebook-f"></i></a></li>
              <li><a href="#" aria-label="x"><i class="fab fa-twitter"></i></a></li>
              <li><a href="#" aria-label="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-             <li><a href="https://wa.me/0760543394" aria-label="whatsapp" target="_blank"><i
+             <li><a href="https://wa.me/+94760543394" aria-label="whatsapp" target="_blank"><i
                          class="fab fa-whatsapp"></i></a></li>
          </ul>
 
@@ -96,8 +96,8 @@
                                  </li>
                                  <li>
                                      <a href='contacts.php' aria-label="contacts">
-                                         <span class="menu-item">Contacts</span>
-                                         <span class="menu-item2">Contacts</span>
+                                         <span class="menu-item">Contact Us</span>
+                                         <span class="menu-item2">Contact Us</span>
                                      </a>
                                  </li>
                              </ul>

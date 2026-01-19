@@ -30609,7 +30609,7 @@ ul {
 @media (max-width: 1201px) {
   .about-us-sec {
     padding: 160px 0 120px;
-    margin: 0 15px;
+    /* margin: 0 15px; */
   }
 }
 

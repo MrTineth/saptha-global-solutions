@@ -88,7 +88,7 @@
                                     <div class="call-center2">
                                         <h4 class="title">Call Center</h4>
                                         <a href="tel:+94773340795" class="nmbr" aria-label="mobile">(+94) 773340795</a>
-                                        <a href="https://wa.me/0760543394" aria-label="whatsapp" target="_blank"
+                                        <a href="https://wa.me/+94760543394" aria-label="whatsapp" target="_blank"
                                             class="nmbr">(+94) 760543394</a>
                                     </div>
                                     <div class="call-center2 mb-0">
@@ -113,7 +113,7 @@
                                                         class="fab fa-twitter"></i></a></li>
                                             <li><a href="http://www.linkedin.com/" target="_blank"
                                                     aria-label="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-                                            <li><a href="https://wa.me/0760543394" aria-label="whatsapp"
+                                            <li><a href="https://wa.me/+94760543394" aria-label="whatsapp"
                                                     target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                                         </ul>
                                     </div>

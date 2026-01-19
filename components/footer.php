@@ -12,7 +12,7 @@
                              <li><a href="#" aria-label="facebook"><i class="fab fa-facebook-f"></i></a></li>
                              <li><a href="#" aria-label="x"><i class="fab fa-twitter"></i></a></li>
                              <li><a href="#" aria-label="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-                             <li><a href="https://wa.me/0760543394" aria-label="whatsapp" target="_blank"><i
+                             <li><a href="https://wa.me/+94760543394" aria-label="whatsapp" target="_blank"><i
                                          class="fab fa-whatsapp"></i></a></li>
                          </ul>
                          <h2 class="title">Since 2025</h2>
@@ -26,7 +26,7 @@
                              <p class="mb-2">166/A/01<br>Egaloya, Bulathsinhala</p>
                              <a href="tel:+94773340795" class="d-block mb-1 nmbr" aria-label="mobile">(+94)
                                  773340795</a>
-                             <a href="https://wa.me/0760543394" aria-label="whatsapp" target="_blank"
+                             <a href="https://wa.me/+94760543394" aria-label="whatsapp" target="_blank"
                                  class="d-block mb-1 nmbr">(+94)
                                  760543394</a>
                              <a href="mailto:info@sapthaglobal.com" class="d-block gmail" aria-label="email">
@@ -41,7 +41,7 @@
                                  <li class="mb-2"><a href="about.php">About Us</a></li>
                                  <li class="mb-2"><a href="services.php">Services</a></li>
                                  <li class="mb-2"><a href="careers.php">Careers</a></li>
-                                 <li class="mb-2"><a href="contacts.php">Contacts</a></li>
+                                 <li class="mb-2"><a href="contacts.php">Contact Us</a></li>
                                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
                              </ul>
                          </div>

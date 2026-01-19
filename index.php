@@ -469,7 +469,7 @@
 
 
     <!-- about-us-sec -->
-    <section class="about-us-sec">
+    <section class="about-us-sec mb-4">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
@@ -506,96 +506,6 @@
         </div>
     </section>
     <!-- about-us-sec -->
-
-    <!-- clients-sec -->
-    <section class="lanuguage-sec ibt-section-gap">
-        <div class="container">
-            <div class="title-area">
-                <div class="row align-items-end">
-                    <div class="col-xl-7 col-lg-9 col-md-12 col-sm-12">
-                        <div class="sec-title mb-0">
-                            <span class="sub-title">Countries</span>
-                            <h2 class="title animated-heading">Our software solutions are trusted by clients worldwide
-                                across industries.
-                            </h2>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-4 col-md-5 col-sm-7">
-                        <div class="user-count">
-                            <div class="counter-box5">
-                                <span class="counter-number" data-target="20">0</span>
-                                <span class="counter-text">+</span>
-                            </div>
-                            <span class="user">Global Clients</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="languages-content">
-                <div class="world-languages">
-                    <div class="country"><img src="assets/images/event/language.png" alt="countries"><span>United
-                            States</span></div>
-                    <div class="country"><img src="assets/images/event/language2.png" alt="countries"><span>United
-                            Kingdom</span></div>
-                    <div class="country"><img src="assets/images/event/language3.png"
-                            alt="countries"><span>France</span></div>
-                    <div class="country"><img src="assets/images/event/language4.png" alt="countries"><span>Spain</span>
-                    </div>
-                    <div class="country"><img src="assets/images/event/language5.png"
-                            alt="countries"><span>Germany</span></div>
-                    <div class="country"><img src="assets/images/event/language6.png" alt="countries"><span>China</span>
-                    </div>
-                    <div class="country"><img src="assets/images/event/language7.png"
-                            alt="countries"><span>Norway</span></div>
-                    <div class="country"><img src="assets/images/event/language8.png"
-                            alt="countries"><span>Ukraine</span></div>
-                    <div class="country"><img src="assets/images/event/language9.png" alt="countries"><span>India</span>
-                    </div>
-                    <div class="country"><img src="assets/images/event/language10.png"
-                            alt="countries"><span>Australia</span></div>
-                    <div class="country"><img src="assets/images/event/language11.png"
-                            alt="countries"><span>Estonia</span></div>
-                    <div class="country"><img src="assets/images/event/language12.png"
-                            alt="countries"><span>Georgia</span></div>
-                    <div class="country"><img src="assets/images/event/language13.png"
-                            alt="countries"><span>Japan</span></div>
-                    <div class="country"><img src="assets/images/event/language14.png"
-                            alt="countries"><span>Finland</span></div>
-                    <div class="country"><img src="assets/images/event/language15.png"
-                            alt="countries"><span>Slovakia</span></div>
-                    <div class="country"><img src="assets/images/event/language16.png"
-                            alt="countries"><span>Italy</span></div>
-                    <div class="country"><img src="assets/images/event/language17.png"
-                            alt="countries"><span>Slovenia</span></div>
-                    <div class="country"><img src="assets/images/event/language18.png"
-                            alt="countries"><span>Switzerland</span></div>
-                    <div class="country"><img src="assets/images/event/language19.png"
-                            alt="countries"><span>Poland</span></div>
-                    <div class="country"><img src="assets/images/event/language20.png"
-                            alt="countries"><span>Armenia</span></div>
-                    <div class="country"><img src="assets/images/event/language21.png"
-                            alt="countries"><span>Portugal</span></div>
-                    <div class="country"><img src="assets/images/event/language22.png"
-                            alt="countries"><span>Paraguay</span></div>
-                    <div class="country"><img src="assets/images/event/language23.png"
-                            alt="countries"><span>Brazil</span></div>
-                    <div class="country"><img src="assets/images/event/language24.png"
-                            alt="countries"><span>Thailand</span></div>
-                    <div class="country"><img src="assets/images/event/language25.png" alt="countries"><span>Czech
-                            Republic</span></div>
-                    <div class="country"><img src="assets/images/event/language26.png"
-                            alt="countries"><span>Belgium</span></div>
-                </div>
-
-                <a class='ibt-btn ibt-btn-outline' aria-label="about" href='about.php' title>
-                    <span>More
-                        Details</span>
-                    <i class="icon-arrow-top"></i>
-                </a>
-            </div>
-        </div>
-    </section>
-    <!-- End clients -->
 
     <!-- project-sec2 -->
     <section class="project-sec2">
